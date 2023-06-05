@@ -1,0 +1,27 @@
+.card-container {
+  display: table-cell;
+  font-family: sans-serif;
+  font-size: 7rem;
+  font-weight: bold;
+  line-height: 100%;
+  color: #808080;
+  text-align: center;
+  vertical-align: center;
+  height: 20rem;
+}
+
+.call-to-action {
+  font-family: sans-serif;
+  font-size: 10rem;
+  font-weight: bold;
+  text-align: right;
+  margin-right: 2rem;
+}
+
+.people {
+  font-family: sans-serif;
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 2rem;
+}
